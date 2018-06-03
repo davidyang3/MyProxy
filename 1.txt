@@ -4,4 +4,3 @@ Windows Test 3
 check gits
 check 4
 repair a bug
-repair bug 2
